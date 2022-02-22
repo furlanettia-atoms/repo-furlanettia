@@ -1,0 +1,135 @@
+/**
+ * Acta Display mixins
+ */
+@mixin acta-display-book() {
+  font: {
+    family: $acta-display-book;
+  }
+}
+
+/**
+ * AktivGrotesk mixins
+ */
+@mixin aktiv-grotesk-regular() {
+  font: {
+    family: $aktiv-grotesk-regular;
+  }
+}
+
+@mixin aktiv-grotesk-medium() {
+  font: {
+    family: $aktiv-grotesk-medium;
+  }
+}
+
+@mixin aktiv-grotesk-bold() {
+  font: {
+    family: $aktiv-grotesk-bold;
+  }
+}
+
+/**
+ * media mixin
+ */
+@mixin media ($breakpoint) {
+  @media (min-width: #{$breakpoint}) {
+    @content;
+  }
+}
+
+/**
+ * position mixin
+ */
+@mixin position(
+  $position,
+  $box-edge-values
+) {
+  $box-edge-values: _unpack-shorthand($box-edge-values);
+  $offsets: (
+    "top": nth($box-edge-values, 1),
+    "right": nth($box-edge-values, 2),
+    "bottom": nth($box-edge-values, 3),
+    "left": nth($box-edge-values, 4),
+  );
+
+  position: $position;
+
+  @each $offset, $value in $offsets {
+    @if _is-length($value) {
+      #{$offset}: $value;
+    }
+  }
+}
+
+/**
+ * size mixin
+ */
+@mixin size(
+  $width,
+  $height: $width
+) {
+  @if _is-size($height) {
+    height: $height;
+  } @else {
+    @error "`#{$height}` is not a valid length for the `$height` argument " +
+      "in the `size` mixin.";
+  }
+
+  @if _is-size($width) {
+    width: $width;
+  } @else {
+    @error "`#{$width}` is not a valid length for the `$width` argument " +
+      "in the `size` mixin.";
+  }
+}
+
+/**
+ * triangle mixin
+ */
+@mixin triangle(
+  $direction,
+  $width,
+  $height,
+  $color
+) {
+  @if not index(
+    "up" "up-right" "right" "down-right" "down" "down-left" "left" "up-left",
+    $direction
+  ) {
+    @error "Direction must be `up`, `up-right`, `right`, `down-right`, " +
+      "`down`, `down-left`, `left` or `up-left`.";
+  } @else if not _is-color($color) {
+    @error "`#{$color}` is not a valid color for the `$color` argument in " +
+      "the `triangle` mixin.";
+  } @else {
+    border-style: solid;
+    height: 0;
+    width: 0;
+
+    @if $direction == "up" {
+      border-color: transparent transparent $color;
+      border-width: 0 ($width / 2) $height;
+    } @else if $direction == "up-right" {
+      border-color: transparent $color transparent transparent;
+      border-width: 0 $width $width 0;
+    } @else if $direction == "right" {
+      border-color: transparent transparent transparent $color;
+      border-width: ($height / 2) 0 ($height / 2) $width;
+    } @else if $direction == "down-right" {
+      border-color: transparent transparent $color;
+      border-width: 0 0 $width $width;
+    } @else if $direction == "down" {
+      border-color: $color transparent transparent;
+      border-width: $height ($width / 2) 0;
+    } @else if $direction == "down-left" {
+      border-color: transparent transparent transparent $color;
+      border-width: $width 0 0 $width;
+    } @else if $direction == "left" {
+      border-color: transparent $color transparent transparent;
+      border-width: ($height / 2) $width ($height / 2) 0;
+    } @else if $direction == "up-left" {
+      border-color: $color transparent transparent;
+      border-width: $width $width 0 0;
+    }
+  }
+}

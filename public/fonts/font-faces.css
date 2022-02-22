@@ -1,0 +1,47 @@
+@font-face{
+  font-display:swap;
+  font-family:AktivGrotesk-Regular;
+  font-weight:400;
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-regular.eot);
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-regular.eot#iefix) 
+  format("embedded-opentype"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-regular.woff2) 
+  format("woff2"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-regular.woff) 
+  format("woff"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-regular.ttf) 
+  format("truetype")
+}
+
+@font-face {
+  font-display:swap;
+  font-family:AktivGrotesk-Medium;
+  font-weight:400;
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-medium.eot);
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-medium.eot#iefix) 
+  format("embedded-opentype"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-medium.woff2) 
+  format("woff2"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-medium.woff) 
+  format("woff"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-medium.ttf) 
+  format("truetype")
+}
+
+@font-face {
+  font-display:swap;
+  font-family:AktivGrotesk-Bold;
+  font-weight:400;
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-bold.eot);
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-bold.eot#iefix) 
+  format("embedded-opentype"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-bold.woff2) 
+  format("woff2"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-bold.woff) 
+  format("woff"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/aktivgrotesk-bold.ttf) 
+  format("truetype")
+}
+
+@font-face {
+  font-display:swap;
+  font-family:Acta Display W01 Book;
+  font-weight:400;
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/acta.eot);
+  src:url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/acta.eot#iefix) 
+  format("embedded-opentype"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/acta.woff2) 
+  format("woff2"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/acta.woff) 
+  format("woff"),url(//www.armani.com/ytos/resources/ARMANIGROUP/fonts/acta.ttf) 
+  format("truetype")
+}

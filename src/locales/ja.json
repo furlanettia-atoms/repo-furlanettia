@@ -1,0 +1,123 @@
+
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "セレクションを見る",
+    "discover": "ARMANI.COMで詳細をご覧ください",
+    "floors": "階",
+    "floor": "",
+    "close": "Close"
+  },
+
+  "menu": [
+    {
+      "floor": "1階",
+      "label": "メンズギフト"
+    },
+    {
+      "floor": "1階",
+      "label": "ウィメンズギフト"
+    },
+    {
+      "floor": "2階",
+      "label": "キッズギフト"
+    },
+    {
+      "floor": "3階",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "4階",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "5階",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "6階",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "7階",
+      "label": "GIFTS / Watches",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "降り積もる雪と街の灯り：一年で最も心躍るシーズンが始まりました。<br/>エンポリオ アルマーニの街を散歩し、エンポリオモールに足を踏み入れると、特別な出会いがあるでしょう。",
+    "cta": "スクロール"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "パーフェクトなギフトを見つける",
+      "cta": "新しい7階を発見する"
+    } 
+  },
+
+  "floors": {
+    "landing": {
+      "text": "一年で最も特別な雰囲気：エンポリオモールに入り、ギフトのアイディアを探しましょう。贈り物を受け取る人の驚きと喜びを想像してみてください。パーフェクトなギフトを選ぶのはとても簡単です。"
+    },
+
+    "boxes": [
+      {
+        "text": "エンポリオモールはメンズギフトのアイディアで始まります。ギフトを開ける人を笑顔にすることができる、洗練されたセレクションです。",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "2階は彼女へのギフトアイディアが集まったエレガントなフロアです。パーフェクトなギフトを選び、思い出に残るユニークで特別な瞬間をつくりましょう。",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "3階は心温まる空間です。そこは小さな子供たちへのギフトアイディアで溢れています。子供たちの弾ける笑顔にぴったりの特別なアイテムを見つけてください。",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "ARMANI / CASA専用のフロアは、エレガントな素材で豊かに仕上げられたスタイル家具とアクセサリー、シンプルなラインと完璧なバランスをお探しの方に最適な空間です。",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "美しさの世界を体現する5階を探索する時がきました：一日のあらゆる瞬間を特別なものにするギフトのアイディアを見つけましょう。",
+        "cta": "見るARMANI / BEAUTY"
+      },
+      {
+        "text": "モールの最も甘いフロアである6階に到着しました。洗練されたプラリネチョコレート、おいしいジャムや紅茶が見つかるセレクションを探索してください。",
+        "cta": "見るARMANI / DOLCI"
+      },
+      {
+        "text": "7階のドアを開くと、ARMANI / FIORIの色と香りの調和が広がります。洗練された優雅さを感じてください。",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "輝く閃光、正確なメカニズム、そして注意深い細部：時計を贈ることは、常に完璧で思い出に残る贈り物です。",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "ARMANIをフォロー",
+    "contactus": "お問い合わせ ",
+    "storelocator": "ストア検索",
+    "copyright": ["Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved", "Vendor information"],
+    "modal": [
+      "情報､画像､プログラムや、その他当サイトにおいて提供されるすべての作品（以下「作品」といいます）は､YOOX NET-A-PORTER GROUP、 及びYOOX Japan、またはその他の権利者が保有又は管理する著作権をはじめ､場合により商標権やその他の知的財産権により保護されています。お客様が当サイトをご利用いただくにあたり、利用者は、著作権法（昭和45年法律第48号）､商標法（昭和34年法律第127号）その他の知的財産権に関する適用法令を遵守するものとし､当社YOOX NET-A-PORTER GROUP、YOOX Japanおよび関連する他の権利者の承諾なしに「作品」を複製､頒布､送信、翻案､編集することや､その他の無断利用を一切厳禁します。",
+      "YOOX NET-A-PORTER GROUP S.p.A.<br/> company with sole shareholder subject to direction and coordination of Compagnie Financière Richemont S.A.<br/>via Morimondo, 17 – Milano 20143, Italy<br/>Email contact<br/>Milan Companies Register tax code/VAT no.: 02050461207<br/>R.E.A. no.: MI-1656860<br/>Share capital € 1,384,207.41"
+    ]
+  },
+
+  "cookies": {
+    "text": "This site uses cookies and similar technology to function properly and to provide the services present on it, analytical cookies (our own and third party) to understand and improve users' browsing experience, and profiling cookies (our own and third party) to serve you advertisements in line with preferences displayed while browsing online. To manage or disable these cookies click on Cookie Settings or for more information please visit our <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>. By clicking \"Accept all Cookies\", you consent to the use of the aforementioned cookies.",
+    "agree": "AGREE"
+  }
+}

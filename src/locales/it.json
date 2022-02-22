@@ -1,0 +1,123 @@
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "Vedi la selezione",
+    "discover": "Scopri di più su Armani.com",
+    "floors": "Piani",
+    "floor": "Piano",
+    "close": "Chiudi"
+  },
+
+  "menu": [
+    {
+      "floor": "Piano Terra",
+      "label": "REGALI / Uomo",
+      "alias": "P.T."
+    },
+    {
+      "floor": "01",
+      "label": "REGALI / Donna"
+    },
+    {
+      "floor": "02",
+      "label": "REGALI / Kids"
+    },
+    {
+      "floor": "03",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "04",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "05",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "06",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "07",
+      "label": "REGALI / Orologi",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "La neve che scende e la città che si accende di luci: è iniziato il periodo più magico dell’anno.<br><br>Rendilo ancora più speciale passeggiando virtualmente tra le vie della città Emporio Armani ed entrando nello speciale Mall The Emporio: il luogo giusto dove trovare i regali perfetti.",
+    "cta": "Scroll"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "Trova il regalo perfetto",
+      "cta": "Scopri il nuovo piano 7°"
+    } 
+  },
+
+  "floors": {
+    "landing": {
+      "text": "Luci, colori e l’atmosfera più speciale dell’anno: entra in The Emporio e lasciati stupire dalle idee regalo. Pensa all’emozione e alla sorpresa di chi scarterà il suo dono: scegliere quello perfetto sarà semplicissimo."
+    },
+
+    "boxes": [
+      {
+        "text": "Il Mall The Emporio si apre con le idee regalo uomo: una selezione esclusiva e ricercata capace di far sorridere chi aprirà il suo regalo.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Il primo piano è dedicato alle idee regalo per lei: scegli il regalo giusto e per creare un momento unico e speciale, da ricordare.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Il secondo piano è il più tenero del Mall: è quello dedicato alle idee regalo per i più piccoli. Look in versione mini e accessori per neonati per essere cool fin da subito.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Il piano dedicato ad Armani/Casa è il posto giusto per chi cerca arredi e complementi in stile minimal, linee semplici e proporzioni perfette, arricchite da materiali e finiture eleganti.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "È il momento di esplorare il quarto piano, quello dedicato al mondo della bellezza: idee regalo pensate per rendere speciale ogni momento della giornata.",
+        "cta": "VISITA ARMANI / BEAUTY"
+      },
+      {
+        "text": "Siamo arrivati al quinto piano, il piano più dolce del Mall: esplora la selezione in cui troverai raffinate praline, deliziose tavolette di cioccolata e gustose confetture.",
+        "cta": "VISITA ARMANI / DOLCI"
+      },
+      {
+        "text": "Le porte del sesto piano si aprono svelando la bellezza delle composizioni Armani/Fiori: un tripudio di colori e profumi, capaci di regalare un tocco di eleganza e raffinatezza.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Bagliori splendenti, meccanismi precisi e dettagli curati: regalare un orologio è un dono sempre perfetto e capace di farsi ricordare.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "Follow Emporio Armani",
+    "contactus": "Contact us",
+    "storelocator": "Store Locator",
+    "copyright": ["Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved", "Informazioni sul venditore"],
+    "modal": [
+      "Ai sensi dell'art. 1, comma 1 del decreto-legge 22 marzo 2004, n. 72, come modificato dalla legge di conversione 21 maggio 2004 n. 128, le opere presenti su questo sito hanno assolto gli obblighi derivanti dalla normativa sul diritto d'autore e sui diritti connessi. La riproduzione, la comunicazione al pubblico, la messa a disposizione del pubblico, il noleggio e il prestito, la pubblica esecuzione, la distribuzione e la diffusione senza l'autorizzazione del titolare dei diritti è vietata.<br>Alle violazioni si applicano le sanzioni previste dagli art. 171, 171-bis, 171-ter, 174-bis e 174-ter della legge 633/1941.",
+      "<b>Giorgio Armani S.p.A.</b> <br><br> Sede legale: Via Borgonuovo, 11 · 20121 Milano · Tel. +39 02 72318.1 · Fax. +39 02 58191900 <br> Unità locali: Via Borgonuovo, 18 · 20121 Milano · Tel. +39 02 72318.1 <br> Via Bergognone nr. 38, 46 e 59 · 20144 Milano · Tel. +39 02 83106.1 <br> <a href='https://www.armani.com/contactus'>Contattaci</a> <br> C.F. e NR Registro Imprese Milano: 02342990153 <br> P.I. 10985020964 - NR. R.E.A.: MI 919502 <br> Capitale sociale Euro 10.000.000,00 interamente versato"
+    ]
+  },
+
+  "cookies": {
+    "text": "Questo sito utilizza cookie e tecnologie similari per il suo funzionamento e per l’erogazione dei servizi in esso presenti. I cookie utilizzati sono cookie “strettamente necessari” (cookie tecnici e cookie analitici anonimizzati). Per maggiori informazioni consulta la nostra <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>",
+    "agree": "Acconsenti"
+  }
+}

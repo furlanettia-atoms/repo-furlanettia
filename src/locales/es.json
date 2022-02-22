@@ -1,0 +1,124 @@
+
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "DESCUBRE LA SELECCIÓN",
+    "discover": "DESCUBRE MÁS EN ARMANI.COM",
+    "floors": "PISOS",
+    "floor": "Piso",
+    "close": "Chiudi"
+  },
+
+  "menu": [
+    {
+      "floor": "Planta baja",
+      "label": "REGALOS / Hombre",
+      "alias": "P.B."
+    },
+    {
+      "floor": "01",
+      "label": "REGALOS / Mujer"
+    },
+    {
+      "floor": "02",
+      "label": "REGALOS / Niños"
+    },
+    {
+      "floor": "03",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "04",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "05",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "06",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "07",
+      "label": "REGALOS / Hombre",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "La nieve que cae y la ciudad que se ilumina: ha comenzado la época más mágica del año. Hazlo aún más especial paseando virtualmente por las calles de la ciudad de Emporio Armani y entrando en el especial Mall The Emporio: el lugar adecuado para encontrar los regalos perfectos.",
+    "cta": "DESPLAZAMIENTO"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "ENCUENTRA EL REGALO PERFECTO",
+      "cta": "Descubre el nuevo 7 piso"
+    } 
+  },
+
+  "floors": {
+    "landing": {
+      "text": "Luces, colores y el ambiente más especial del año: entra en The Emporio y déjate sorprender por las ideas para regalos. Piensa en la emoción y sorpresa de quienes descartarán su regalo: elegir el perfecto será muy sencillo."
+    },
+
+    "boxes": [
+      {
+        "text": "The Mall The Emporio abre con ideas de regalos para hombres: una selección exclusiva y refinada capaz de hacer sonreír a quienes abren su regalo.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "El primer piso está dedicado a ideas de regalos para ella: elija el regalo adecuado y cree un momento único y especial para recordar.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "El segundo piso es el más tierno del Mall: es el dedicado a ideas de regalos para los más pequeños. Busque en una versión mini y accesorios para que los bebés estén frescos de inmedi.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "El piso dedicado a Armani / Casa es el lugar adecuado para quienes buscan muebles y accesorios de estilo minimalista, líneas simples y proporciones perfectas, enriquecidas con materiales y acabados elegantes.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Es hora de explorar el cuarto piso, el dedicado al mundo de la belleza: ideas de regalos diseñadas para hacer que cada momento del día sea especial.",
+        "cta": "DESCUBRIR ARMANI / BEAUTY"
+      },
+      {
+        "text": "Llegamos al quinto piso, el piso más dulce del Mall: explora la selección donde encontrarás refinados pralinés, deliciosas barras de chocolate y sabrosas mermeladas.",
+        "cta": "DESCUBRIR ARMANI / DOLCI"
+      },
+      {
+        "text": "Las puertas del sexto piso se abren revelando la belleza de las composiciones de Armani / Fiori: un derroche de colores y aromas, capaz de dar un toque de elegancia y refinamiento.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Destellos luminosos, mecanismos precisos y detalles cuidados: regalar un reloj es un regalo siempre perfecto y capaz de ser recordado.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "SIGUE A EMPORIO ARMANI",
+    "contactus": "CONTÁCTANOS",
+    "storelocator": "LOCALIZADOR DE TIENDAS",
+    "copyright": ["Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved", "Información sobre el vendedor"],
+    "modal": [
+      "De acuerdo con el artículo 1, párrafo 1º del Decreto-ley nº 72, del 22 de marzo de 2004, modificado por la Ley nº 128 del 21 de mayo de 2004, todos los trabajos expuestos en este sitio web cumplen con las leyes y reglamentos relativos a los derechos de autor y derechos conexos. Queda prohibida la reproducción, comunicación y puesta a disposición del público, alquiler y préstamo, comunicación pública, distribución y difusión de los trabajos sin la autorización de sus titulares. Las sanciones impuestas en los artículos 171, 171-bis, 171-ter y 174-ter de la Ley Italiana sobre Derechos de Autor (Ley nº 633/1941) serán aplicables a cualquier infracción de las obligaciones arriba citadas.",
+      "<b>Giorgio Armani S.p.A.</b> <br><br> Sede legal: Via Borgonuovo nº 11, 20121 Milán, Italia, Tel. +39 02 72318.1 · Fax. +39 02 58191900<br/>Unidades locales: Via Borgonuovo nº 18, 20121 Milán, Italia, Tel. +39 02 72318.1<br/>Via Bergognone nº 38, 46 y 59 · 20144 Milán, Italia · Tel. +39 02 83106.1<br/>Contáctanos<br/>C.F. (Número de identificación fiscal) y NR (Número de registro) Cámara de Comercio de Milán: 02342990153<br/>P.I. 10985020964 - NR. R.E.A. (Registro de empresas): MI 919502<br/>Capital social Euro 10.000.000,00 completamente desembolsado"
+    ]
+  },
+
+  "cookies": {
+    "text": "Este sitio usa cookies y tecnologías similares para su funcionamiento y para la prestación de los servicios presentes en el mismo, cookies analíticas (propias y de terceros) para entender y mejorar la experiencia de navegación del usuario, así como cookies para la elaboración de perfiles (propias y de terceros) para enviarte publicidad de acuerdo con las preferencias que hayas manifestado durante la navegación en red. Para administrar o deshabilitar estas cookies haga clic en «Configuración de cookies»o para más información visite nuestra <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Política de cookies</a>. Al hacer clic en «Aceptar todas las cookies», usted acepta el uso de las cookies mencionadas.",
+    "agree": "ACEPTO"
+  }
+}

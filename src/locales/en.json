@@ -1,0 +1,126 @@
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "DISCOVER THE SELECTION",
+    "discover": "DISCOVER MORE AT ARMANI.COM",
+    "floors": "Floors",
+    "floor": "Floor",
+    "close": "Close"
+  },
+
+  "menu": [
+    {
+      "floor": "Ground floor",
+      "label": "GIFTS / Man",
+      "alias": "G.F."
+    },
+    {
+      "floor": "01",
+      "label": "GIFTS / Woman"
+    },
+    {
+      "floor": "02",
+      "label": "GIFTS / Kids"
+    },
+    {
+      "floor": "03",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "04",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "05",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "06",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "07",
+      "label": "GIFTS / Watches",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "The falling snow and the city that lights up: the most magical time of the year has begun. Make it even more special by virtually strolling through the streets of the Emporio Armani city and exploring the special Mall The Emporio: the right place to find the perfect gifts.",
+    "cta": "Scroll"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "FIND THE PERFECT GIFT",
+      "cta": "Discover the new 7th floor"
+    }
+  },
+
+  "floors": {
+    "landing": {
+      "text": "Lights, colors and the most special atmosphere of the year: enter The Emporio and let yourself be amazed by the gift ideas. Thinks of the emotion and surprise of those who will receive your gift: choosing the perfect one will be very simple."
+    },
+
+    "boxes": [
+      {
+        "text": "The Mall The Emporio opens with men's gift ideas: an exclusive and refined selection capable of making those who open their gift smile.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "The first floor is dedicated to gift ideas for her: choose the right gift to create a unique and special moment to remember.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "The second floor is the most tender of the Mall: it is the one dedicated to gift ideas for the little ones. Look in a mini version and accessories for babies to be cool right away.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "The floor dedicated to Armani / Casa is the right place for those looking for minimal style furnishings and accessories, simple lines and perfect proportions, enriched by elegant materials and finishes.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "It's time to explore the fourth floor, the one dedicated to the world of beauty: gift ideas designed to make every moment of the day special.",
+        "cta": "VIEW ARMANI / BEAUTY"
+      },
+      {
+        "text": "We have arrived at the fifth floor, the sweetest floor of the Mall: explore the selection where you will find refined pralines, delicious chocolate bars and tasty jams.",
+        "cta": "VIEW ARMANI / DOLCI"
+      },
+      {
+        "text": "The doors of the sixth floor open revealing the beauty of the Armani / Fiori compositions: a riot of colors and scents, capable of giving a touch of elegance and refinement.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Shining flashes, precise mechanisms and careful details: giving a watch as a gift is always a perfect gift and capable of being remembered.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "Follow Emporio Armani",
+    "contactus": "Contact us",
+    "storelocator": "Store Locator",
+    "copyright": [
+      "Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved",
+      "Vendor information"
+    ],
+    "modal": [
+      "Pursuant to art. 1, par. 1, of law-decree 22 March 2004 no. 72, as amended by law 21 may 2004 no. 128, all works posted on this site are in compliance with the laws and regulations concerning copyright and related rights. Reproduction, communication and making available to the public, rental and lending, public performance, distribution and dissemination of works, without the authorisation of the right-holders, are prohibited. The penalties set forth by Art. 171, 171-bis, 171-ter, 174-bis and 174-ter of Italian Copyright Law (Law no. 633/1941) shall apply to any violation of the obligations set out therein.",
+      "YOOX NET-A-PORTER GROUP S.p.A.<br/> company with sole shareholder subject to direction and coordination of Compagnie Financière Richemont S.A.<br/>via Morimondo, 17 – Milano 20143, Italy<br/>Email contact<br/>Milan Companies Register tax code/VAT no.: 02050461207<br/>R.E.A. no.: MI-1656860<br/>Share capital € 1,384,207.41"
+    ]
+  },
+
+  "cookies": {
+    "text": "This site uses cookies and similar technology to function properly and to provide the services present on it, analytical cookies (our own and third party) to understand and improve users' browsing experience, and profiling cookies (our own and third party) to serve you advertisements in line with preferences displayed while browsing online. To manage or disable these cookies click on \"Cookie Settings\" or for more information please visit our <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>. By clicking \"Accept all Cookies\", you consent to the use of the aforementioned cookies.",
+    "agree": "AGREE"
+  }
+}

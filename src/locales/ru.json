@@ -1,0 +1,123 @@
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "ОТКРОЙТЕ ПОДБОРКУ",
+    "discover": "УЗНАЙТЕ БОЛЬШЕ НА ARMANI.COM",
+    "floors": "ЭТАЖ",
+    "floor": "Этаж",
+    "close": "Chiudi"
+  },
+
+  "menu": [
+    {
+      "floor": "Первый этаж",
+      "label": "ПОДАРКИ / Мужчинам",
+      "alias": "П.Э."
+    },
+    {
+      "floor": "01",
+      "label": "ПОДАРКИ / Женщинам"
+    },
+    {
+      "floor": "02",
+      "label": "ПОДАРКИ / Дети"
+    },
+    {
+      "floor": "03",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "04",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "05",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "06",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "07",
+      "label": "ПОДАРКИ / часы",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "Падающий снег и горящий город: самое волшебное время года началось. Сделайте его еще более особенным, виртуально прогулявшись по улицам города Emporio Armani и войдя в особый торговый центр Emporio: подходящее место, чтобы найти идеальные подарки.",
+    "cta": "ПРОКРУТКИ"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "НАЙТИ ИДЕАЛЬНЫЙ ПОДАРОК",
+      "cta": "Откройте для себя новый 7-й этаж"
+    } 
+  },
+
+  "floors": {
+    "landing": {
+      "text": "Свет, цвета и самая особенная атмосфера года: войдите в Emporio и позвольте себе поразиться идеям подарков. Подумайте об эмоциях и удивлении тех, кто откажется от своего подарка: выбрать идеальный будет очень просто."
+    },
+
+    "boxes": [
+      {
+        "text": "Торговый центр The Emporio открывается идеями мужских подарков: эксклюзивный и изысканный выбор, способный вызвать улыбку у тех, кто откроет свой подарок.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Первый этаж посвящен идеям подарков для нее: выбрать подходящий подарок и создать уникальный и особенный момент, который запомнится.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Второй этаж - самый нежный в ТРЦ: именно он посвящен подаркам для самых маленьких. Поищите в мини-версии и аксессуары для малышек сразу круто.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Пол, посвященный Armani / Casa, - подходящее место для тех, кто ищет мебель и аксессуары в минималистском стиле, простые линии и идеальные пропорции, обогащенные элегантными материалами и отделкой.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Пришло время исследовать четвертый этаж, посвященный миру красоты: идеи подарков, которые сделают каждый момент дня особенным.",
+        "cta": "ОЗНАКОМИТЬСЯ ARMANI / BEAUTY"
+      },
+      {
+        "text": "Мы прибыли на пятый этаж, самый сладкий этаж торгового центра: изучите выбор, где вы найдете изысканные пралине, восхитительные плитки шоколада и вкусные джемы.",
+        "cta": "ОЗНАКОМИТЬСЯ ARMANI / DOLCI"
+      },
+      {
+        "text": "Двери шестого этажа открываются, открывая красоту композиций Armani / Fiori: буйство красок и ароматов, способных внести нотку элегантности и утонченности.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Сияющие вспышки, точные механизмы и продуманные детали: подарить часы - это всегда совершенный подарок, который запомнится.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "EMPORIO ARMANI В СОЦСЕТЯХ",
+    "contactus": "СВЯЖИТЕСЬ С НАМИ",
+    "storelocator": "СЕТЬ МАГАЗИНОВ",
+    "copyright": ["Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved", "Vendor information"],
+    "modal": [
+      "Согласно ст. 1, п. 1, закона № 72 от 22 марта 2004 г. с последующими поправками, внесенными законом № 128 от 21 мая 2004 г., весь материал, публикуемый на нашем сайте, соответствует законодательству и положениям в области защиты авторских прав и связанных с ними прав. Воспроизведение, оглашение, распространение и передача третьим лицам данного материала без надлежащего разрешения владельцев авторских прав запрещены законодательством. В случае нарушения данных обязательств применяются санкции, утвержденные в статьях 171, 171-bis, 171-ter, 174-bis и 174-ter закона Италии о защите авторских прав (Закон № 633/1941).",
+      "YOOX NET-A-PORTER GROUP S.p.A.<br/> company with sole shareholder subject to direction and coordination of Compagnie Financière Richemont S.A.<br/>via Morimondo, 17 – Milano 20143, Italy<br/>Email contact<br/>Milan Companies Register tax code/VAT no.: 02050461207<br/>R.E.A. no.: MI-1656860<br/>Share capital € 1,384,207.41"
+    ]
+  },
+
+  "cookies": {
+    "text": "This site uses cookies and similar technology to function properly and to provide the services present on it, analytical cookies (our own and third party) to understand and improve users' browsing experience, and profiling cookies (our own and third party) to serve you advertisements in line with preferences displayed while browsing online. To manage or disable these cookies click on Cookie Settings or for more information please visit our <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>. By clicking \"Accept all Cookies\", you consent to the use of the aforementioned cookies.",
+    "agree": "AGREE"
+  }
+}

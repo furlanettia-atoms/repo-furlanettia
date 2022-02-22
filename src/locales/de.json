@@ -1,0 +1,126 @@
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "ENTDECKEN SIE DIE AUSWAHL",
+    "discover": "ENTDECKEN SIE MEHR AUF ARMANI.COM",
+    "floors": "PLÄNE",
+    "floor": "Stock",
+    "close": "Chiudi"
+  },
+
+  "menu": [
+    {
+      "floor": "Erdgeschoss",
+      "label": "GESCHENKE / Mann",
+      "alias": "E."
+    },
+    {
+      "floor": "01",
+      "label": "GESCHENKE / Frau"
+    },
+    {
+      "floor": "02",
+      "label": "GESCHENKE / Kinder"
+    },
+    {
+      "floor": "03",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "04",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "05",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "06",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "07",
+      "label": "GESCHENKE / Uhren",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "Der fallende Schnee und die leuchtende Stadt: Die magischste Zeit des Jahres hat begonnen. Machen Sie es noch spezieller, indem Sie virtuell durch die Straßen der Stadt Emporio Armani schlendern und die besondere Mall The Emporio betreten: der richtige Ort, um die perfekten Geschenke zu finden.",
+    "cta": "Scroll"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "SIE DAS PERFEKTE GESCHENK",
+      "cta": "Entdecken Sie die neue 7. Etage"
+    }
+  },
+
+  "floors": {
+    "landing": {
+      "text": "Lichter, Farben und die besondere Atmosphäre des Jahres: Betreten Sie das Emporio und lassen Sie sich von den Geschenkideen überraschen. Denken Sie an die Emotionen und die Überraschung derer, die ihr Geschenk wegwerfen werden: Die Auswahl des perfekten Geschenks wird sehr einfach sein."
+    },
+
+    "boxes": [
+      {
+        "text": "The Mall The Emporio eröffnet mit Geschenkideen für Männer: eine exklusive und raffinierte Auswahl, die jedem, der sein Geschenk öffnet, ein Lächeln auf die Lippen zaubert.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Die erste Etage ist den Geschenkideen für sie gewidmet: Wählen Sie das richtige Geschenk und schaffen Sie einen einzigartigen und besonderen Moment, an den Sie sich erinnern werden.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Die zweite Etage ist die zarteste der Mall: Sie ist den Geschenkideen für die Kleinen gewidmet. Schauen Sie in einer Mini-Version und Zubehör für Babys, um sofort cool zu sein.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Die Armani / Casa gewidmete Etage ist der richtige Ort für diejenigen, die Möbel und Accessoires im minimalistischen Stil, einfache Linien und perfekte Proportionen suchen, die durch elegante Materialien und Oberflächen bereichert werden.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Es ist Zeit, die vierte Etage zu erkunden, die der Welt der Schönheit gewidmet ist: Geschenkideen, die jeden Moment des Tages zu etwas Besonderem machen.",
+        "cta": "DURCHSTÖBERN ARMANI / BEAUTY"
+      },
+      {
+        "text": "Wir sind in der fünften Etage angekommen, der süßesten Etage der Mall: Entdecken Sie die Auswahl, in der Sie raffinierte Pralinen, köstliche Schokoriegel und leckere Marmeladen finden.",
+        "cta": "DURCHSTÖBERN ARMANI / DOLCI"
+      },
+      {
+        "text": "Die Türen des sechsten Stocks öffnen sich und enthüllen die Schönheit der Armani / Fiori-Kompositionen: ein Aufruhr von Farben und Düften, die einen Hauch von Eleganz und Raffinesse verleihen.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Leuchtende Blitze, präzise Mechanismen und liebevolle Details: Eine Uhr zu schenken ist ein Geschenk, das immer perfekt ist und in Erinnerung bleibt.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "EMPORIO ARMANI FOLGEN",
+    "contactus": "KONTAKT",
+    "storelocator": "Store Locator",
+    "copyright": [
+      "Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved",
+      "Informationen zum Verkäufer"
+    ],
+    "modal": [
+      "Gemäß Art. 1, Ziffer 1, der Rechtsverordnung Nr. 72 vom 22. März 2004, durch das Abänderungsgesetz Nr. 128 vom 21. Mai 2004 geändert, erfüllen die auf dieser Webseite enthaltenen Werke die Pflichten, welche vom Gesetz über Urheberrecht und verwandte Schutzrechte festgelegt sind. Ohne Zustimmung des Rechtsinhabers ist es verboten die Werke zu vervielfältigen, der Öffentlichkeit mitzuteilen oder zur Verfügung zu stellen, zu vermieten bzw. zu verleihen, öffentlich aufzuführen, zu verbreiten und zu verteilen. Jegliche Verletzungen unterliegen den von Artikeln 171, 171-bis, 171-ter, 174-bis und 174-ter, Gesetz 633/1941, vorgesehenen Strafen nach italienischem Urheberrechtsgesetz.",
+      "<b>Giorgio Armani S.p.A.</b> <br><br> Geschäftssitz: Via Borgonuovo 11, 20121 Mailand, Italien, Tel.: +39 02 723181, Fax: +39 02 58191900<br/>Geschäftseinheiten: Via Borgonuovo 18, 20121 Mailand, Tel.: +39 02 723181<br/>Via Bergognone Nr. 38, 46 und 59, 20144 Mailand, Tel.: +39 02 831061<br/>Contact us<br/>Italienische Steuernummer (C.F.) und Nummer im Mailänder Handelsregister (Registro Imprese Milano): 02342990153<br/>Umsatzsteuer-Identifikationsnummer (P.IVA): 10985020964 - NR. Handelsregister: MI 919502<br/>Grundkapital: Euro 10.000.000,00, gänzlich eingezahlt"
+    ]
+  },
+
+  "cookies": {
+    "text": "Diese Webseite verwendet Cookies und ähnliche Technologien, die zu ihrem Funktionieren und der Erbringung der auf ihr enthaltenen Leistungen beitragen. Dazu gehören sowohl analytische Cookies (eigene und solche von Drittanbietern), die zum Verständnis und zur Verbesserung der Navigation des Users dienen, als auch Cookies zur Profilierung (eigene und solche von Drittanbietern), die dazu dienen, Ihnen kommerzielle Nachrichten zu schicken, die den anhand Ihres Surfverhaltens ermittelten Präferenzen entsprechen. Um diese Cookies zu verwalten oder zu deaktivieren, klicken Sie auf „Cookie-Einstellungen“ oder für weitere Informationen besuchen Sie bitte unsere <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>. Indem Sie auf „Alle Cookies akzeptieren“ klicken, stimmen Sie der Verwendung der oben genannten Cookies zu.",
+    "agree": "ICH ZUSTIMME"
+  }
+}

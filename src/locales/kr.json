@@ -1,0 +1,125 @@
+{
+  "name": "Glow Town",
+
+  "shared": {
+    "emporio": "The Emporio",
+    "selection": "선택을 발견하십시오",
+    "discover": "ARMANI.COM에서 더 알아보기",
+    "floors": "층",
+    "floor": "",
+    "close": "Close"
+  },
+
+  "menu": [
+    {
+      "floor": "1층",
+      "label": "선물 / 남자"
+    },
+    {
+      "floor": "1층",
+      "label": "선물 / 여성"
+    },
+    {
+      "floor": "2층",
+      "label": "선물/키즈"
+    },
+    {
+      "floor": "3층",
+      "label": "ARMANI / CASA",
+      "image": ""
+    },
+    {
+      "floor": "4층",
+      "label": "ARMANI / Beauty",
+      "image": ""
+    },
+    {
+      "floor": "5층",
+      "label": "ARMANI / DOLCI",
+      "image": ""
+    },
+    {
+      "floor": "6층",
+      "label": "ARMANI / FIORI",
+      "image": ""
+    },
+    {
+      "floor": "7층",
+      "label": "GIFTS / Watches",
+      "image": ""
+    }
+  ],
+
+  "landing": {
+    "xmas": "Holiday Edition",
+    "text": "내리는 눈과 빛을 발하는 도시: 일년 중 가장 마법 같은 시간이 시작되었습니다. 엠포리오 아르마니(Emporio Armani) 시의 거리를 가상으로 거닐고 특별한 몰 더 엠포리오(Mall The Emporio)에 입장하여 더욱 특별하게 만드십시오. 완벽한 선물을 찾을 수 있는 최적의 장소입니다.",
+    "cta": "스크롤"
+  },
+
+  "home": {
+    "tooltip": {
+      "intro": "완벽한 선물 찾기",
+      "cta": "새로운 7층을 만나보세요"
+    }
+  },
+
+  "floors": {
+    "landing": {
+      "text": "조명, 색상 및 올해의 가장 특별한 분위기: The Emporio에 입장하여 선물 아이디어에 감탄하십시오. 선물을 버릴 사람들의 감동과 놀라움을 생각해 보십시오. 완벽한 선물을 선택하는 것은 매우 간단할 것입니다."
+    },
+
+    "boxes": [
+      {
+        "text": "The Mall The Emporio는 선물을 여는 사람들을 미소 짓게 할 수 있는 고급스럽고 세련된 남성용 선물 아이디어로 문을 엽니다.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "1층은 그녀를 위한 선물 아이디어에 전념하고 있습니다. 올바른 선물을 선택하고 기억에 남을 독특하고 특별한 순간을 만들 수 있습니다.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "2층은 몰에서 가장 부드러운 곳입니다. 어린 아이들을 위한 선물 아이디어 전용 공간입니다. 아기가 바로 시원해질 수 있도록 미니 버전과 액세서리를 만나보세요.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "Armani / Casa 전용 바닥은 미니멀한 스타일의 가구와 액세서리, 단순한 라인과 완벽한 비율, 우아한 소재와 마감재로 풍성함을 찾는 사람들에게 적합한 장소입니다.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "오늘은 하루의 모든 순간을 특별하게 만드는 선물 아이디어인 아름다움의 세계에 전념하는 4층을 탐험할 시간입니다.",
+        "cta": "아르마니 / 뷰티 보기"
+      },
+      {
+        "text": "몰의 가장 달콤한 층인 5층에 도착했습니다. 세련된 프랄린, 맛있는 초콜릿 바, 맛있는 잼이 있는 곳을 둘러보세요.",
+        "cta": "아르마니/돌치 보기"
+      },
+      {
+        "text": "6층의 문이 열리면 Armani / Fiori 구성의 아름다움이 드러납니다. 다양한 색상과 향기가 우아함과 세련미를 선사할 수 있습니다.",
+        "cta": "@:shared.selection"
+      },
+      {
+        "text": "반짝이는 섬광, 정밀한 메커니즘, 세심한 디테일: 시계를 선물하는 것은 항상 완벽하고 기억에 남을 수 있는 선물입니다.",
+        "cta": "@:shared.selection"
+      }
+    ]
+  },
+
+  "footer": {
+    "follow": "엠포리오 아르마니 팔로우",
+    "contactus": "문의하기",
+    "storelocator": "매장 찾기",
+    "copyright": [
+      "Copyright © {year} Giorgio Armani S.p.A. - All Rights Reserved",
+      "Vendor information"
+    ],
+    "modal": [
+      "법률 2004년 5월 21일 제128호에 의해 개정된 바와 같이, 법률-법령 2004년 3월 22일 제72호 제1조 1항에 따라 이 사이트에 게시된 모든 자료는 저작권 및 관련 권리에 대한 법률과 규정을 준수합니다. 게시된 자료를 권리자의 허가 없이 재생, 전달, 일반 대중이 사용하도록 허가, 임대 및 대여, 공연, 배포, 보급하는 행위는 금지되어 있습니다. 이탈리아 저작권법(법률 제633/1941호)의 제171조, 171조의 2, 171조의 3, 174조의 2, 174조의 3에 따라 처벌될 수 있습니다.",
+      "YOOX NET-A-PORTER GROUP S.p.A.<br/> company with sole shareholder subject to direction and coordination of Compagnie Financière Richemont S.A.<br/>via Morimondo, 17 – Milano 20143, Italy<br/>Email contact<br/>Milan Companies Register tax code/VAT no.: 02050461207<br/>R.E.A. no.: MI-1656860<br/>Share capital € 1,384,207.41"
+    ]
+  },
+
+  "cookies": {
+    "text": "This site uses cookies and similar technology to function properly and to provide the services present on it, analytical cookies (our own and third party) to understand and improve users' browsing experience, and profiling cookies (our own and third party) to serve you advertisements in line with preferences displayed while browsing online. To manage or disable these cookies click on Cookie Settings or for more information please visit our <a href='https://www.armani.com/cookiepolicy' target='_blank' rel='noopener'>Cookie Policy</a>. By clicking \"Accept all Cookies\", you consent to the use of the aforementioned cookies.",
+    "agree": "AGREE"
+  }
+}

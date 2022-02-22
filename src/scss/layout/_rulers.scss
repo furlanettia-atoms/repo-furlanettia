@@ -1,0 +1,52 @@
+/*------------------------------
+Rulers
+------------------------------*/
+$rulers-visibility: hidden;
+$rulers-primary-color: #0000ff;
+$rulers-secondary-color: #ff00ff;
+
+@function ruler($direction, $position, $color, $size) {
+  @return linear-gradient(
+        $direction
+        , transparent calc(#{$position} - #{$size / 2})
+        , $color      calc(#{$position})
+        , transparent calc(#{$position} + #{$size / 2})
+  );
+}
+
+@function center($color, $size: 1px) {
+  @return ruler(to bottom, 50%, $color, $size)
+        , ruler(to right, 50%, $color, $size);
+}
+
+@function sides($color, $box-edge-values, $size: 1px) {
+  $box-edge-values: _unpack-shorthand($box-edge-values);
+  @return ruler(to top, nth($box-edge-values, 3), $color, $size)
+        , ruler(to left, nth($box-edge-values, 2), $color, $size)
+        , ruler(to right, nth($box-edge-values, 4), $color, $size)
+        , ruler(to bottom, nth($box-edge-values, 1), $color, $size)
+        , ruler(to left, nth($box-edge-values, 5), $color, $size);
+}
+
+html {
+  &::before,
+  &::after {
+    content: '';
+    @include position(fixed, 0 0 0 0);
+    visibility: $rulers-visibility;
+    pointer-events: none;
+    z-index: 9999;
+  }
+
+  &::before {
+    background: center($rulers-primary-color);
+  }
+
+  &::after {
+    background: sides($rulers-secondary-color, $navbar-height-md 20px 20px 20px -1px);
+    
+    @include media ($md-breakpoint) {
+      background: sides($rulers-secondary-color, $navbar-height-sm 20px 20px 20px -1px);
+    }
+  }
+}
